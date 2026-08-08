@@ -1,0 +1,1 @@
+# smart-mining-gate-system
