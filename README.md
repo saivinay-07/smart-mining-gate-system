@@ -1,5 +1,3 @@
-# smart-mining-gate-system
-
 # Smart Vehicle Entry & Exit Monitoring System
 
 **Project Type:** AI-based CCTV Vehicle Monitoring System
